@@ -1,0 +1,7 @@
+Trabalho da Disciplina de CMP237
+
+Descrição: Modelagem SystemC de um processador que execute as seguintes instruções:
+- ADD/SUB
+- SW
+- LW
+- BEq
