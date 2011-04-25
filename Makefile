@@ -15,7 +15,7 @@ MODULE = processor
 
 
 
-SRCS =  ula.cpp registrador.cpp breg.cpp data_memory.cpp
+SRCS =  ula.cpp registrador.cpp breg.cpp data_memory.cpp inst_memory.cpp
 	   
 
 
