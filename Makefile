@@ -12,7 +12,7 @@ CFLAGS = $(OPT) $(OTHER)
 # CFLAGS = $(DEBUG) $(OTHER)
 MODULE = processor
 
-SRCS =  ula.cpp registrador.cpp breg.cpp data_memory.cpp inst_memory.cpp control_unit.cpp mux2.cpp
+SRCS =  ula.cpp registrador.cpp breg.cpp data_memory.cpp inst_memory.cpp control_unit.cpp mux2.cpp shift2.cpp
 	   
 OBJS 	= $(SRCS:.cpp=.o)
 DEPS	= $(SRCS:.cpp=.d)
