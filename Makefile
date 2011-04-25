@@ -15,7 +15,7 @@ MODULE = processor
 
 
 
-SRCS =  ula.cpp registrador.cpp
+SRCS =  ula.cpp registrador.cpp breg.cpp
 	   
 
 
