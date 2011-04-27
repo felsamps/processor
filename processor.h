@@ -1,5 +1,9 @@
+#ifndef PROCESSOR_H
+#define PROCESSOR_H
+
 #include "systemc.h"
 #include "control_unit.h"
+#include "datapath.h"
 
 SC_MODULE(processor) {
 	sc_in<sc_logic> clk, reset;
@@ -34,3 +38,5 @@ SC_MODULE(processor) {
 		
 	}
 };
+
+#endif

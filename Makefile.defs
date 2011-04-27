@@ -1,5 +1,5 @@
 ## Variable that points to SystemC installation path
-SYSTEMC = /home/felsamps/Mestrado/Arq/systemc-2.2.0
+SYSTEMC = /home/felsamps/Mestrado/systemc-2.2.0
 #
 # That's all for you!!!
 
